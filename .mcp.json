@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "satohub": {
+      "type": "http",
+      "url": "https://satohub.ai/api/mcp",
+      "headers": {
+        "x-sato-source": "grok-build"
+      },
+      "note": "Sato Hub hosted MCP server (Streamable HTTP). No API key, no account, no OAuth. Tool calls send only their arguments to satohub.ai; the x-sato-source header tells Sato Hub the call came through this plugin. Most tools only read; the few that change Sato Hub's own records say so in their annotations, and none signs, holds or moves funds."
+    }
+  }
+}

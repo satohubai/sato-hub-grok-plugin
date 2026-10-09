@@ -1,0 +1,19 @@
+{
+  "name": "sato-hub",
+  "version": "1.0.0",
+  "description": "Build crypto and onchain agents from a mapped, daily-rebuilt index: frameworks, MCP servers, wallets, x402 and stablecoin payment rails, ERC-8004 identity and agent skills, each with a Sato Score (how open, active and verifiable a project is; not a safety or returns grade) and dated evidence. Includes Sato Check: before you install a crypto package, MCP server or skill, see whether it takes your key, whether the key leaves and whether it can move funds on its own. Hosted MCP server, no key, no account; nothing signs or moves funds.",
+  "author": {
+    "name": "Sato Hub",
+    "url": "https://satohub.ai"
+  },
+  "repository": "https://github.com/satohubai/sato-hub-grok-plugin",
+  "homepage": "https://satohub.ai/mcp",
+  "license": "MIT",
+  "keywords": [
+    "sato hub",
+    "satohub",
+    "sato check",
+    "sato score",
+    "sato route"
+  ]
+}
